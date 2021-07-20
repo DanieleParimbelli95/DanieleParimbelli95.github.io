@@ -1,6 +1,8 @@
 remote_theme: jekyll/minima
 title: title
-author: author
-email: "email"
+author:
+  name: name
+  e-mail: e-mail
+
 description: description
 linkedin_username: linkedin
