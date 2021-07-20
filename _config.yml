@@ -2,7 +2,10 @@ remote_theme: jekyll/minima
 title: title
 author:
   name: name
-  e-mail: e-mail
-
+  email: e-mail
+  
 description: description
 linkedin_username: linkedin
+
+minima:
+  skin: dark
