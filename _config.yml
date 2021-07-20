@@ -1,4 +1,6 @@
 theme: minima
 title: fdsfdsa
-author: d
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
 description: assDa
