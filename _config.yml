@@ -7,4 +7,6 @@ author:
 description: description
 linkedin_username: linkedin
 
-skin: dark
+minima:
+  social_links:
+    linkedin: linkedin
