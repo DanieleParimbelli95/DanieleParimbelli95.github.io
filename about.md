@@ -1,9 +1,9 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
-<iframe src='MVP.html'></iframe>
+fdsfads
 
 
 
