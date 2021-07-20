@@ -4,3 +4,6 @@ author: author
 email: "email"
 description: description
 linkedin_username: linkedin
+
+minima:
+  skin: dark
