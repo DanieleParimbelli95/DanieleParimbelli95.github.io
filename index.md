@@ -1,4 +1,4 @@
-Here's a collection of some of my work:
+Here you can find some of my projects:
 <br/>
 <br/>
 * Coming Soon: Classification of Newspaper Articles (App)
