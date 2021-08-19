@@ -1,11 +1,11 @@
-remote_theme: jekyll/minima
+remote_theme: jekyll/cayman
 title: Daniele Parimbelli
 subtitle: prova
 author:
   name: 
-  email:
+  email: daniele.parimbelli3@gmail.com
   
-description: daniele.parimbelli3@gmail.com
+description: 
 linkedin_username: linkedin
 
 minima:
