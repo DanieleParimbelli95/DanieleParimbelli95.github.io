@@ -1,5 +1,3 @@
-404: Not Found
-
 Coming Soon: Classification of Newspaper Articles (App)
 <br/>
 <br/>
