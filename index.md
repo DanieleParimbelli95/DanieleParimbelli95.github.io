@@ -1,17 +1,16 @@
-Here's a collection of some of my work
+Here's a collection of some of my work:
 <br/>
 <br/>
 <br/>
-<br/>
-Coming Soon: Classification of Newspaper Articles (App)
-<br/>
-<br/>
-[Sales Forecasting (Project)](https://danieleparimbelli95.github.io/Sales-Forecasting)
+* Coming Soon: Classification of Newspaper Articles (App)
 <br/>
 <br/>
-[The 1000 Most Populous Cities in the World (Interactive Map)](https://danieleparimbelli95.github.io/The-1000-Most-Populous-Cities-in-the-World)
+* [Sales Forecasting (Project)](https://danieleparimbelli95.github.io/Sales-Forecasting)
 <br/>
 <br/>
-[Predicting the 2019 NBA MVP (University Project)](https://danieleparimbelli95.github.io/Predicting-the-2019-NBA-MVP)
+* [The 1000 Most Populous Cities in the World (Interactive Map)](https://danieleparimbelli95.github.io/The-1000-Most-Populous-Cities-in-the-World)
+<br/>
+<br/>
+* [Predicting the 2019 NBA MVP (University Project)](https://danieleparimbelli95.github.io/Predicting-the-2019-NBA-MVP)
 
 
