@@ -1,9 +1,9 @@
-remote_theme: minima
+theme: minima
 title: Daniele Parimbelli
 
 author: Data Scientist
-email: daniele.parimbelli3@gmail.com
-description:
+email: 
+description: daniele.parimbelli3@gmail.com
 linkedin_username: linkedin
 
 minima:
