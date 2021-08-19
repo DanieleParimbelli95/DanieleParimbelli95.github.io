@@ -1,6 +1,11 @@
-remote_theme: jekyll/minima
+theme: minima
 title: Daniele Parimbelli
 subtitle: prova
 
-  
+description: 
+linkedin_username: linkedin
 
+minima:
+  social_links:
+    linkedin: linkedin
+  
