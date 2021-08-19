@@ -1,3 +1,9 @@
+<style>
+.footer {
+  display: none;
+}
+</style>
+
 Here you can find some of my projects:
 <br/>
 <br/>
