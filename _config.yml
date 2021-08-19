@@ -5,5 +5,7 @@ author: Data Scientist
 email: 
 description: daniele.parimbelli3@gmail.com
 
-linkedin: daniele-parimbelli
+minima:
+  social_links:
+    linkedin: daniele-parimbelli
   
