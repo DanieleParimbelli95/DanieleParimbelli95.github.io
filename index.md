@@ -1,6 +1,6 @@
 404: Not Found
 
-[Basketball Reference](https://danieleparimbelli95.github.io/Sales-Forecasting.html)
+[Basketball Reference]()
 
-<a href="Sales-Forecasting.html" title="MVP">About Me</a>
+<a href="" title="MVP">About Me</a>
 
