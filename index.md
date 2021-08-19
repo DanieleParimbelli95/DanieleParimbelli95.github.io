@@ -1,3 +1,3 @@
 404: Not Found
 
-<a href="/MVP/MVP.html" title="MVP">About Me</a>
+<a href="MVP.html" title="MVP">About Me</a>
