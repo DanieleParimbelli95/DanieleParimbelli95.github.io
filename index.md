@@ -1,6 +1,8 @@
 404: Not Found
 
-[Basketball Reference]()
+[Basketball Reference](https://danieleparimbelli95.github.io/Sales-Forecasting2.html)
+[Basketball Reference](https://danieleparimbelli95.github.io/Sales-Forecasting.html)
 
-<a href="Sales-Forecasting2" title="">About Me</a>
+<a href="Sales-Forecasting2.html" title="">About Me</a>
+<a href="Sales-Forecasting.html" title="">About Me</a>
 
