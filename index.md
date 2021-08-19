@@ -1,3 +1,8 @@
+Here's a collection of some of my work
+<br/>
+<br/>
+<br/>
+<br/>
 Coming Soon: Classification of Newspaper Articles (App)
 <br/>
 <br/>
