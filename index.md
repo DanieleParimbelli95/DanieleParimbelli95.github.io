@@ -7,7 +7,7 @@ Here you can find some of my projects:
 * Coming Soon: Anomaly Detection in Time Series (Blog Post)
 <br/>
 <br/>
-* Coming Soon: Classifier of Newspaper Articles (App)
+* Coming Soon: Classification of Newspaper Articles (App)
 <br/>
 <br/>
 * [Sales Forecasting (Project)](https://danieleparimbelli95.github.io/Sales-Forecasting)
