@@ -7,7 +7,7 @@ Here you can find some of my projects:
 * [Preview: Classification of Newspaper Articles (App)](https://user-images.githubusercontent.com/45093665/131360601-737387db-cb10-4d9a-961f-2a5d641352fd.mp4)
 <br/>
 <br/>
-* [Prova](https://danieleparimbelli95.github.io/classification_newspaper_articles_app)
+* [Prova](https://danieleparimbelli95.github.io/classification_newspaper_articles_app.mp4)
 <br/>
 <br/>
 * [Sales Forecasting (Project)](https://danieleparimbelli95.github.io/Sales-Forecasting)
