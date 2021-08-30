@@ -1,10 +1,14 @@
 Here you can find some of my projects:
 <br/>
 <br/>
+
+https://user-images.githubusercontent.com/45093665/131360601-737387db-cb10-4d9a-961f-2a5d641352fd.mp4
+
+
 * Coming Soon: Classification of Fruit Images (Project + App)
 <br/>
 <br/>
-* Coming Soon: Classification of Newspaper Articles (App)
+* [Coming Soon: Classification of Newspaper Articles (App)](https://user-images.githubusercontent.com/45093665/131360601-737387db-cb10-4d9a-961f-2a5d641352fd.mp4)
 <br/>
 <br/>
 * [Sales Forecasting (Project)](https://danieleparimbelli95.github.io/Sales-Forecasting)
