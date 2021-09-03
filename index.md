@@ -1,7 +1,7 @@
 Here you can find some of my projects:
 <br/>
 <br/>
-* Coming Soon: Garbage Classification (App)
+* [Garbage Classification (App)](https://garbage-classification-app.herokuapp.com/)
 <br/>
 <br/>
 * [Preview: Classification of Newspaper Articles (App)](https://danieleparimbelli95.github.io/classification_newspaper_articles_app.mp4)
